@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 900">
+<rect width="700" height="900" fill="#d8d5ca"/>
+<circle cx="350" cy="300" r="115" fill="#b8b7aa"/>
+<path d="M130 850c18-190 95-300 220-300s202 110 220 300" fill="#a5a99a"/>
+<path d="M0 0h700v900H0z" fill="none" stroke="#c5c2b7" stroke-width="2"/>
+<text x="350" y="720" font-family="Arial,sans-serif" font-size="22" letter-spacing="5" text-anchor="middle" fill="#555b50">ADD YOUR PHOTO</text>
+<text x="350" y="755" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" text-anchor="middle" fill="#666b61">ALIDIANE XAVIER</text>
+</svg>
